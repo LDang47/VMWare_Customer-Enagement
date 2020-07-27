@@ -3,4 +3,5 @@ Look into the Case study for VMWare and build a model for Customised Customer En
 
 Data included:
 Training.csv
+
 Validation.csv
